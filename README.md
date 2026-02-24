@@ -20,4 +20,7 @@ c) Statistical representation of fingerprints and images (XGBoost approach): <br
 Features: Morgan (r=2,128 bits) + MACCS (166) + RDKit physicalization + NetworkX graph statistics (diameter/shortest path/circumference)
 Extract RDKit materialization descriptors and NetworkX-based graph statistics (e.g., graph diameter, average shortest path, and number of cycles). The final input is fed into the XGBoost model for training. 
 2.3 Model Fusion
-The model fusion employs linear weighting with a configuration of 0.4 GNN, 0.3 CatBoost, and 0.3 XGBoost, where each target is independently weighted. 
+The model fusion employs linear weighting with a configuration of 0.4 GNN, 0.3 CatBoost, and 0.3 XGBoost, where each target is independently weighted.
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=whyzhow/Kaggle-NeurIPS---Open-Polymer-Prediction-2025-Silver-Algorithm-Overview&type=timeline&legend=top-left)](https://www.star-history.com/#whyzhow/Kaggle-NeurIPS---Open-Polymer-Prediction-2025-Silver-Algorithm-Overview&type=timeline&legend=top-left)
