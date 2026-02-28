@@ -23,7 +23,7 @@ Kaggle-NeurIPS-Open-Polymer/<br>
 ├── README.md<br>
 ├── requirements.txt<br>
 ├── config.py<br>
-├── dataset.csv <br>            
+├── dataset.csv<br>            
 ├── src/<br>
 │   ├── train.py<br>
 │   ├── features.py<br>
@@ -85,14 +85,14 @@ Run a small synthetic dataset to verify installation:
 python src/train.py --demo
 ```
 This will:
-	•	Generate a fake dataset
-	•	Train models
-	•	Output results to outputs/
+	•	Generate a fake dataset<br>
+	•	Train models<br>
+	•	Output results to outputs/<br>
 ## 🧩 Extending the Project
 
 You can easily add:
-	•	New molecular descriptors
-	•	New GNN architectures (GAT, GraphSAGE)
-	•	New meta learners (LightGBM, ElasticNet)
-	•	Bayesian uncertainty estimation
-	•	Multi-task prediction heads
+	•	New molecular descriptors<br>
+	•	New GNN architectures (GAT, GraphSAGE)<br>
+	•	New meta learners (LightGBM, ElasticNet)<br>
+	•	Bayesian uncertainty estimation<br>
+	•	Multi-task prediction heads<br>
