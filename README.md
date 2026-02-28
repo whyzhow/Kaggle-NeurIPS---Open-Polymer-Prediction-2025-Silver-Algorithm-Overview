@@ -23,7 +23,7 @@ Kaggle-NeurIPS-Open-Polymer/<br>
 ├── README.md<br>
 ├── requirements.txt<br>
 ├── config.py<br>
-├── dataset.csv<br>            
+├── dataset.csv<br>
 ├── src/<br>
 │   ├── train.py<br>
 │   ├── features.py<br>
