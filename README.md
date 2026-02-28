@@ -84,13 +84,13 @@ Run a small synthetic dataset to verify installation:
 ```
 python src/train.py --demo
 ```
-This will:
+This will:<br>
 	•	Generate a fake dataset<br>
 	•	Train models<br>
 	•	Output results to outputs/<br>
 ## 🧩 Extending the Project
 
-You can easily add:
+You can easily add:<br>
 	•	New molecular descriptors<br>
 	•	New GNN architectures (GAT, GraphSAGE)<br>
 	•	New meta learners (LightGBM, ElasticNet)<br>
