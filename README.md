@@ -13,35 +13,32 @@ The pipeline combines:
 - Out-of-Fold (OOF) stacking and ensemble learning
 - Optuna-based weight optimization (optional)
 
-The goal is to provide:
+The goal is to provide:<br>
 ✅ higher stability  
 ✅ better generalization  
 ✅ strict reproducibility  
 ✅ clean project structure  
-
----
-
 ## 📂 Project Structure
-Kaggle-NeurIPS-Open-Polymer/
-├── README.md
-├── requirements.txt
-├── config.py
-├── dataset.csv             
-├── src/
-│   ├── train.py
-│   ├── features.py
-│   ├── models.py
-│   ├── utils/
-│   │   ├── smiles_utils.py
-│   │   └── cv_utils.py
-│   └── stacking/
-│       └── optuna_stack.py
-├── outputs/
-│   ├── models/
-│   ├── feats/
-│   └── oof/
-└── tests/
-└── test_smiles.py
+Kaggle-NeurIPS-Open-Polymer/<br>
+├── README.md<br>
+├── requirements.txt<br>
+├── config.py<br>
+├── dataset.csv <br>            
+├── src/<br>
+│   ├── train.py<br>
+│   ├── features.py<br>
+│   ├── models.py<br>
+│   ├── utils/<br>
+│   │   ├── smiles_utils.py<br>
+│   │   └── cv_utils.py<br>
+│   └── stacking/<br>
+│       └── optuna_stack.py<br>
+├── outputs/<br>
+│   ├── models/<br>
+│   ├── feats/<br>
+│   └── oof/<br>
+└── tests/<br>
+└── test_smiles.py<br>
 ## ⚙️ Environment Setup (Recommended)
 
 We strongly recommend using **Conda** to install RDKit.
