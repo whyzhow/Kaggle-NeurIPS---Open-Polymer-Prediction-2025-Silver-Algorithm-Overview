@@ -1,0 +1,12 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.2
+joblib>=1.2
+tqdm>=4.64
+catboost>=1.1
+xgboost>=1.7
+optuna>=3.0
+torch>=2.0
+torch-geometric>=2.3
+rdkit        # note: prefer installing via conda (see README)
+pyarrow>=12.0
