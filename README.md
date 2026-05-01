@@ -1,3 +1,6 @@
+oosmetricsTop 10 in Training by acceleration - 2026-04-27
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/ac3a70b0-d0c2-45b6-ad12-257f33c755b2.svg)](https://oosmetrics.com/repo/whyzhow/Kaggle-NeurIPS---Open-Polymer-Prediction-2025-Silver-Algorithm-Overview)
+
 # Kaggle NeurIPS – Open Polymer Prediction  
 ### Reproducible and Improved Silver-Medal Solution
 
